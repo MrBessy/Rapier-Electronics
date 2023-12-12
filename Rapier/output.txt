@@ -1,0 +1,86 @@
+Bipolar Electronics	None	None	None	2022-07-27 00:00:00+00:00	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+Filename:	micropicsmt4v0 Bill of Material 27-7-2022 Manuf 	None	None	None	Project MICROPICSMT4V0	Or Equiv	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+Item	Designator	Load	Value	Comment	Description	None	Footprint	LibRef	Quantity	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+1.0	C1	Y	100nf	1206B104K500CT	1206B104K500CT,SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R	Y	C3216-1206	Cap1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+2.0	C2	Y	4.7nf	C1206C472J5RACTU	SMD Multilayer Ceramic Capacitor, 4700 pF, 50 V, 1206 [3216 Metric], ± 5%, X7R, C Series KEMET	Y	C3216-1206	Cap1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+3.0	C3	Y	4.7nf	C1206C472J5RACTU	SMD Multilayer Ceramic Capacitor, 4700 pF, 50 V, 1206 [3216 Metric], ± 5%, X7R, C Series KEMET	Y	C3216-1206	Cap1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+4.0	C4	Y	100nf	1206B104K500CT	1206B104K500CT,SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R	Y	C3216-1206	Cap1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+5.0	C6	Y	10nf	CC1206KRX7R9BB103	CC1206KRX7R9BB103  SMD Multilayer Ceramic Capacitor, 10000 pF, 50 V, 1206 [3216 Metric], ± 10%, X7R, CC	Y	C3216-1206	Cap1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+6.0	C7	Y	100nf	1206B104K500CT	1206B104K500CT,SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R	Y	C3216-1206	Cap1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+7.0	C9	Y	100nf	1206B104K500CT	1206B104K500CT,SMD Multilayer Ceramic Capacitor, 0.1 µF, 50 V, 1206 [3216 Metric], ± 10%, X7R	Y	C3216-1206	Cap1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+8.0	D1	Y	None	SS1H10-E3/5AT	SS1H10-E3/5AT Schottky Rectifier, 100 V, 1 A, Single, DO-214AC (SMA), 2 Pins, 770 mV	Y	diode214ac	D Schottky	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+9.0	D2	Y	None	1SS355TE-17	1SS355TE-17 Small Signal Diode, High Speed Switching, 90 V, 100 mA, 1.2 V, 4 ns, 225 mA	Y	UMD2	Diode	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+10.0	D3	Y	None	1SS355TE-17	1SS355TE-17 Small Signal Diode, High Speed Switching, 90 V, 100 mA, 1.2 V, 4 ns, 225 mA	Y	UMD2	Diode	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+11.0	D4	Y	None	1SS355TE-17	1SS355TE-17 Small Signal Diode, High Speed Switching, 90 V, 100 mA, 1.2 V, 4 ns, 225 mA	Y	UMD2	Diode	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+12.0	D5	Y	None	1SS355TE-17	1SS355TE-17 Small Signal Diode, High Speed Switching, 90 V, 100 mA, 1.2 V, 4 ns, 225 mA	Y	UMD2	Diode	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+13.0	D6	Y	None	1SS355TE-17	1SS355TE-17 Small Signal Diode, High Speed Switching, 90 V, 100 mA, 1.2 V, 4 ns, 225 mA	Y	UMD2	Diode	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+14.0	E1	N	220uF	Cap Pol1	Polarized Capacitor (Radial)	NA	ELEC1	Cap Pol1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+15.0	E2	Y	22uF 16V	MCVVT016M220CA1L
+SM	MCVVT016M220CA1L
+SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 22 µF, 16 V, 2000 hours @ 105°C, Polar	Y	B_CASE	FTS6.S01_10uF_10	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+16.0	E3	Y	22uF 16V	MCVVT016M220CA1L
+SMD	MCVVT016M220CA1L
+SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 22 µF, 16 V, 2000 hours @ 105°C, Polar	Y	B_CASE	FTS6.S01_10uF_10	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+17.0	E4	Y	10uF	MCVVT016M100CA1L	SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 10 µF, 16 V, 2000 hours @ 105°C, Polar	Y	B_CASE	FTS6.S01_10uF_10	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+18.0	E5	Y	10uF	MCVVT016M100CA1L	SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 10 µF, 16 V, 2000 hours @ 105°C, Polar	Y	B_CASE	FTS6.S01_10uF_10	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+19.0	JP2	N	None	MHDR1X5-1.27	Header, 5-Pin	NA	MHDR1X5-1.27	MHDR1X5	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+20.0	E6	Y	10uF	MCVVT016M100CA1L	SMD Aluminium Electrolytic Capacitor, Radial Can - SMD, 10 µF, 16 V, 2000 hours @ 105°C, Polar	Y	B_CASE	FTS6.S01_10uF_10	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+21.0	ICX 1	Y	None	SOIC8	PIC12F752	N	SOIC	DIP8	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+22.0	L1	Y	None	L7805CDT-TR	Voltage Regulator  L7805CDT-TR	N	DPAK_Reg	Volt Reg	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+23.0	L3	N	None	Power LED	Typical RED GaAs LED	NA	LED150X70	LED1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+24.0	L4	N	None	Detect LED	Typical RED GaAs LED	NA	LED150X70	LED1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+25.0	Microwave 1	N	None	Header 3	Header, 3-Pin	NA	MICRO1	Header 3	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+26.0	P1	N	None	Sol 1 A	None	NA	PADSOL	PAD1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+27.0	P2	N	None	Sol 1 T	None	NA	PADSOL	PAD1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+28.0	P3	N	None	PAD1	None	NA	PADRECT250X130	PAD1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+29.0	P4	N	None	PAD1	None	NA	PADRECT250X130	PAD1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+30.0	P5	N	None	Sol 2 A	None	NA	PADSOL	PAD1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+31.0	P6	N	None	Sol 2 T	None	NA	PADSOL	PAD1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+32.0	P7	N	None	Reset	For Pickup	NA	CON50	PICKUP	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+33.0	P8	N	None	Gnd	For Pickup	NA	CON50	PICKUP	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+34.0	Q1	Y	None	MMBT2907A	Bipolar (BJT) Single Transistor, PNP, 60 V, 600 mA, 300 mW, SOT-23, Surface Mount	Y	SOT23	PNP	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+35.0	Q2	Y	None	FMMT493	NPN Bipolar Transistor FMMT493	Y	SOT23	npn	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+36.0	Q3	Y	None	FMMT493	NPN Bipolar Transistor FMMT493	Y	SOT23	npn	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+37.0	Q4	Y	None	MMBT2907A	Bipolar (BJT) Single Transistor, PNP, 60 V, 600 mA, 300 mW, SOT-23, Surface Mount	Y	SOT23	PNP	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+38.0	R2	Y	2R2	ESR18EZPJ2R2	ESR18EZPJ2R2 ROHM  SMD Chip Resistor, 2.2 ohm, Â± 5%, 500 mW, 1206 [3216 Metric], Thick Film, Anti-Surge	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+39.0	R3	Y	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+40.0	R4	Y	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+41.0	R5	Y	47K	WCR1206-47KFI	SMD Chip Resistor, Thick Film, AEC-Q200 WCR Series, 47 kohm, 200 V, 1206 [3216 Metric], 250 mW	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+42.0	R6	Y	1K8	MP003725	SMD Chip Resistor, 1.8 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+43.0	R7	Y	3K3	MCWR12X3301FTL	SMD Chip Resistor, 3.3 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+44.0	R8	Y	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+45.0	R9	Y	560K	MCSR12X5603FTL	SMD Chip Resistor, 560 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, Sulfur Resistant	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+46.0	R10	Y	100K	MCWR12X1003FTL	SMD Chip Resistor, 100 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+47.0	R13	Y	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+48.0	R11	Y	100K	MCWR12X1003FTL	SMD Chip Resistor, 100 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+49.0	R12	Y	100K	MCWR12X1003FTL	SMD Chip Resistor, 100 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+50.0	R14	Y	820R	MC1206S4F8200T5E	RES, THICK FILM, 820R, 1%, 0.25W, 1206	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+51.0	R15	Y	4K7	MCWR12X4701FTL	SMD Chip Resistor, 4.7 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+52.0	R16	Y	1M0	MC1206S4F1004T5E	RES, THICK FILM, 1M, 1%, 0.25W, 1206	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+53.0	R17	Y	22K	MCWR12X2202FTL	SMD Chip Resistor, 22 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+54.0	R18	Y	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+55.0	R19	Y	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+56.0	R20	Y	47R	MCWR12X47R0FTL	SMD Chip Resistor, 47 ohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+57.0	R21	Y	47K	WCR1206-47KFI	SMD Chip Resistor, Thick Film, AEC-Q200 WCR Series, 47 kohm, 200 V, 1206 [3216 Metric], 250 mW	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+58.0	R22	Y	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+59.0	R23	Y	300R	MCMR12X3000FTL	MCMR12X3000FTL  SMD Chip Resistor, Ceramic, 300 ohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, Sulfur Resistant	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+60.0	R24	N	470R	MCWR12X4700FTL	SMD Chip Resistor, 470 ohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	NA	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+61.0	R25	N	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	NA	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+62.0	R26	Y	4K7	MCWR12X4701FTL	SMD Chip Resistor, 4.7 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+63.0	R27	Y	4K7	MCWR12X4701FTL	SMD Chip Resistor, 4.7 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+64.0	R28	Y	10K	MCWR12X1002FTL	SMD Chip Resistor, 10 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+65.0	R29	Y	300R	MCMR12X3000FTL	MCMR12X3000FTL  SMD Chip Resistor, Ceramic, 300 ohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, Sulfur Resistant	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+66.0	R30	N	300R	MCMR12X3000FTL	MCMR12X3000FTL  SMD Chip Resistor, Ceramic, 300 ohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, Sulfur Resistant	NA	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+67.0	R31	Y	4K7	MCWR12X4701FTL	SMD Chip Resistor, 4.7 kohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	Y	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+68.0	R32	N	470R	MCWR12X4700FTL	MCWR12X4700FTL
+SMD Chip Resistor, 470 ohm, ± 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose	NA	C3216-1206	Res1206	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+69.0	T1	Y	None	BT136S-600D,118	BT136S-600D,118  WEEN SEMICONDUCTORS  Triac, 600 V, 4 A, TO-252 (DPAK), 10 mA, 1 V, 5 W	N	DPAK	Triac	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+70.0	T2	N	DNL	BT136S-600D,118 (DNL Triac)	BT136S-600D,118  WEEN SEMICONDUCTORS  Triac, 600 V, 4 A, TO-252 (DPAK), 10 mA, 1 V, 5 W	NA	DPAK	Triac	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+71.0	U1	Y	None	LM324DT	OP AMP, 1.3MHZ, 0.4V/uS, SOIC-14	Y	SO-G14/Y2.2	LM324AD	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+72.0	VR1	N	100K	RPot1	Potentiometer	NA	VAR-RES-Dual	RPot1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+73.0	VR2	N	100K	RPot1	Potentiometer	NA	VAR-RES-Dual	RPot1	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+74.0	Z1	Y	None	1SMB5924B 9v1	Zener Diode 1SMB5924B	Y	Zener-smb	D Zener	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+75.0	Z2	Y	None	1SMB5924B 9v1	Zener Diode 1SMB5924B	Y	Zener-smb	D Zener	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+76.0	Z3	N	None	1N5355B	Zen 1N5355B 18V 5W	NA	Z5W	D Zener	1.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None
+None	Items To Load =	55.0	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None

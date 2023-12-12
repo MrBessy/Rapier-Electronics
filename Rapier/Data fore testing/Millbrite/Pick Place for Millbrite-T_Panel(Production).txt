@@ -1,0 +1,261 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+L31        1210_-_Inductor       4.628mm     71.1254mm       4.628mm     71.1254mm       4.628mm     69.7254mm  B         90.00 120R @100MHz   
+C44        C1206                5.9996mm     74.6278mm      5.9996mm     74.6278mm      7.3496mm     74.6278mm  B        180.00 Cap            
+C43        C1206                5.9996mm     67.3778mm      5.9996mm     67.3778mm      7.3496mm     67.3778mm  B        180.00 Cap            
+C1         C1206               20.2501mm     32.1242mm     20.2501mm     32.1242mm     20.2501mm     33.4742mm  B        270.00 Cap            
+C3         C1206               23.7492mm     31.3749mm     23.7492mm     31.3749mm     25.0992mm     31.3749mm  B        180.00 Cap            
+C4         C1206               31.5001mm     74.1242mm     31.5001mm     74.1242mm     31.5001mm     75.4742mm  B        270.00 Cap            
+C6         C1206               35.1242mm     73.3749mm     35.1242mm     73.3749mm     36.4742mm     73.3749mm  B        180.00 Cap            
+C7         C1206               50.0001mm     32.1243mm     50.0001mm     32.1243mm     50.0001mm     33.4742mm  B        270.00 Cap            
+C9         C1206               53.4993mm     31.3749mm     53.4993mm     31.3749mm     54.8492mm     31.3749mm  B        180.00 Cap            
+C10        C1206               68.7501mm     74.1243mm     68.7501mm     74.1243mm     68.7501mm     75.4743mm  B        270.00 Cap            
+C12        C1206               72.2493mm     73.3749mm     72.2493mm     73.3749mm     73.5993mm     73.3749mm  B        180.00 Cap            
+C13        C1206               87.0001mm     32.1243mm     87.0001mm     32.1243mm     87.0001mm     33.4743mm  B        270.00 Cap            
+C15        C1206               90.6243mm     31.3749mm     90.6243mm     31.3749mm     91.9743mm     31.3749mm  B        180.00 Cap            
+C16        C1206              105.5001mm     74.1243mm    105.5001mm     74.1243mm    105.5001mm     75.4743mm  B        270.00 Cap            
+C18        C1206              109.1243mm     73.3749mm    109.1243mm     73.3749mm    110.4743mm     73.3749mm  B        180.00 Cap            
+C19        C1206              124.0001mm     32.1243mm    124.0001mm     32.1243mm    124.0001mm     33.4743mm  B        270.00 Cap            
+C21        C1206              127.4994mm     31.3749mm    127.4994mm     31.3749mm    128.8493mm     31.3749mm  B        180.00 Cap            
+C22        C1206              142.5008mm     74.1251mm    142.5008mm     74.1251mm    142.5008mm     75.4751mm  B        270.00 Cap            
+C24        C1206              146.1251mm     73.3743mm    146.1251mm     73.3743mm    147.4751mm     73.3743mm  B        180.00 Cap            
+C25        C1206              161.0001mm     32.1243mm    161.0001mm     32.1243mm    161.0001mm     33.4743mm  B        270.00 Cap            
+C27        C1206              164.3751mm     31.3743mm    164.3751mm     31.3743mm    165.7251mm     31.3743mm  B        180.00 Cap            
+C28        C1206              179.5007mm     74.1251mm    179.5007mm     74.1251mm    179.5007mm     75.4751mm  B        270.00 Cap            
+C30        C1206               183.125mm      73.375mm     183.125mm      73.375mm     184.475mm      73.375mm  B        180.00 Cap            
+C31        C1206              198.0007mm     32.1251mm    198.0007mm     32.1251mm    198.0007mm     33.4751mm  B        270.00 Cap            
+C33        C1206              201.6251mm     31.3743mm    201.6251mm     31.3743mm    202.9751mm     31.3743mm  B        180.00 Cap            
+C34        C1206              216.5007mm     74.1251mm    216.5007mm     74.1251mm    216.5007mm     75.4751mm  B        270.00 Cap            
+C36        C1206               220.125mm      73.375mm     220.125mm      73.375mm     221.475mm      73.375mm  B        180.00 Cap            
+C49        C1206              116.7492mm     53.1249mm    116.7492mm     53.1249mm    116.7492mm     51.7749mm  B         90.00 Cap            
+C2         0805_-_capacitor     31.7478mm     26.2499mm     31.7478mm     26.2499mm     30.7478mm     26.2499mm  B        180.00 Cap            
+C5         0805_-_capacitor          43mm     68.2499mm          43mm     68.2499mm          42mm     68.2499mm  B        180.00 Cap            
+C8         0805_-_capacitor     61.4983mm     26.2499mm     61.4983mm     26.2499mm     60.4983mm     26.2499mm  B        180.00 Cap            
+C11        0805_-_capacitor     80.2485mm     68.1249mm     80.2485mm     68.1249mm     79.2485mm     68.1249mm  B        180.00 Cap            
+C14        0805_-_capacitor     98.5001mm     26.1238mm     98.5001mm     26.1238mm     97.5001mm     26.1238mm  B        180.00 Cap            
+C17        0805_-_capacitor    117.0002mm      68.124mm    117.0002mm      68.124mm    116.0002mm      68.124mm  B        180.00 Cap            
+C20        0805_-_capacitor    135.5001mm     26.3743mm    135.5001mm     26.3743mm    134.5001mm     26.3743mm  B        180.00 Cap            
+C23        0805_-_capacitor    153.8752mm     68.1232mm    153.8752mm     68.1232mm    152.8752mm     68.1232mm  B        180.00 Cap            
+C26        0805_-_capacitor    172.5002mm     26.2485mm    172.5002mm     26.2485mm    171.5002mm     26.2485mm  B        180.00 Cap            
+C29        0805_-_capacitor    191.0002mm     68.2488mm    191.0002mm     68.2488mm    190.0002mm     68.2488mm  B        180.00 Cap            
+C32        0805_-_capacitor    209.5002mm      26.374mm    209.5002mm      26.374mm    208.5002mm      26.374mm  B        180.00 Cap            
+C35        0805_-_capacitor    227.7493mm     68.1248mm    227.7493mm     68.1248mm    226.7493mm     68.1248mm  B        180.00 Cap            
+D1         SMA_-_diode_-_AK     29.7501mm     34.6978mm     29.7501mm     34.6978mm     31.7501mm     34.6978mm  B        180.00 Schottky Barrier Diode AK
+D2         SMA_-_diode_-_AK     41.2501mm        76.7mm     41.2501mm        76.7mm     43.2501mm        76.7mm  B        180.00 Schottky Barrier Diode AK
+D3         SMA_-_diode_-_AK     59.7501mm     34.6983mm     59.7501mm     34.6983mm     61.7501mm     34.6983mm  B        180.00 Schottky Barrier Diode AK
+D4         SMA_-_diode_-_AK     78.5001mm     76.6985mm     78.5001mm     76.6985mm     80.5001mm     76.6985mm  B        180.00 Schottky Barrier Diode AK
+D5         SMA_-_diode_-_AK     96.7501mm     34.6988mm     96.7501mm     34.6988mm     98.7501mm     34.6988mm  B        180.00 Schottky Barrier Diode AK
+D6         SMA_-_diode_-_AK    115.2501mm      76.699mm    115.2501mm      76.699mm    117.2501mm      76.699mm  B        180.00 Schottky Barrier Diode AK
+D7         SMA_-_diode_-_AK    133.7501mm     34.6993mm    133.7501mm     34.6993mm    135.7501mm     34.6993mm  B        180.00 Schottky Barrier Diode AK
+D8         SMA_-_diode_-_AK    152.2502mm     76.6983mm    152.2502mm     76.6983mm    154.2502mm     76.6983mm  B        180.00 Schottky Barrier Diode AK
+D9         SMA_-_diode_-_AK    170.7502mm     34.5735mm    170.7502mm     34.5735mm    172.7502mm     34.5735mm  B        180.00 Schottky Barrier Diode AK
+D10        SMA_-_diode_-_AK    189.2502mm     76.6988mm    189.2502mm     76.6988mm    191.2502mm     76.6988mm  B        180.00 Schottky Barrier Diode AK
+D11        SMA_-_diode_-_AK    207.7502mm      34.699mm    207.7502mm      34.699mm    209.7502mm      34.699mm  B        180.00 Schottky Barrier Diode AK
+D12        SMA_-_diode_-_AK    226.2502mm     76.6993mm    226.2502mm     76.6993mm    228.2502mm     76.6993mm  B        180.00 Schottky Barrier Diode AK
+L1         TYS6045             29.6228mm     40.2499mm     29.6228mm     40.2499mm     31.7228mm     40.2499mm  B        180.00 68 uH          
+L2         TYS6045              41.125mm     82.2499mm      41.125mm     82.2499mm      43.225mm     82.2499mm  B        180.00 68 uH          
+L3         TYS6045             59.6233mm     40.2499mm     59.6233mm     40.2499mm     61.7233mm     40.2499mm  B        180.00 68 uH          
+L4         TYS6045             78.3735mm     82.2499mm     78.3735mm     82.2499mm     80.4736mm     82.2499mm  B        180.00 68 uH          
+L5         TYS6045             96.6238mm     40.2499mm     96.6238mm     40.2499mm     98.7238mm     40.2499mm  B        180.00 68 uH          
+L6         TYS6045            115.1241mm     82.2499mm    115.1241mm     82.2499mm    117.2241mm     82.2499mm  B        180.00 68 uH          
+L7         TYS6045            133.6243mm     40.2499mm    133.6243mm     40.2499mm    135.7243mm     40.2499mm  B        180.00 68 uH          
+L8         TYS6045            152.1233mm     82.2498mm    152.1233mm     82.2498mm    154.2233mm     82.2498mm  B        180.00 68 uH          
+L9         TYS6045            170.6235mm     40.2498mm    170.6235mm     40.2498mm    172.7235mm     40.2498mm  B        180.00 68 uH          
+L10        TYS6045            189.1238mm     82.2498mm    189.1238mm     82.2498mm    191.2238mm     82.2498mm  B        180.00 68 uH          
+L11        TYS6045            207.6241mm     40.2498mm    207.6241mm     40.2498mm    209.7241mm     40.2498mm  B        180.00 68 uH          
+L14        TYS6045            226.1243mm     82.2498mm    226.1243mm     82.2498mm    228.2243mm     82.2498mm  B        180.00 68 uH          
+LED1       XP-G3                    17mm          11mm          17mm          11mm          17mm        9.35mm  T         90.00 LED            
+LED2       XP-G3                    17mm          25mm          17mm          25mm          17mm       26.65mm  T        270.00 LED            
+LED3       XP-G3                    17mm          39mm          17mm          39mm          17mm       40.65mm  T        270.00 LED            
+LED4       XP-G3                    17mm          53mm          17mm          53mm          17mm       54.65mm  T        270.00 LED            
+LED5       XP-G3                    17mm          67mm          17mm          67mm          17mm       68.65mm  T        270.00 LED            
+LED6       XP-G3                    17mm          81mm          17mm          81mm          17mm       82.65mm  T        270.00 LED            
+LED7       XP-G3                    17mm          95mm          17mm          95mm          17mm       93.35mm  T         90.00 LED            
+LED8       XP-G3                  35.5mm          11mm        35.5mm          11mm        35.5mm        9.35mm  T         90.00 LED            
+LED9       XP-G3                  35.5mm          25mm        35.5mm          25mm        35.5mm       26.65mm  T        270.00 LED            
+LED10      XP-G3                  35.5mm          39mm        35.5mm          39mm        35.5mm       40.65mm  T        270.00 LED            
+LED11      XP-G3                  35.5mm          53mm        35.5mm          53mm        35.5mm       54.65mm  T        270.00 LED            
+LED12      XP-G3                  35.5mm          67mm        35.5mm          67mm        35.5mm       68.65mm  T        270.00 LED            
+LED13      XP-G3                  35.5mm          81mm        35.5mm          81mm        35.5mm       82.65mm  T        270.00 LED            
+LED14      XP-G3                  35.5mm          95mm        35.5mm          95mm        35.5mm       93.35mm  T         90.00 LED            
+LED15      XP-G3                    54mm          11mm          54mm          11mm          54mm       12.65mm  T        270.00 LED            
+LED16      XP-G3                    54mm          25mm          54mm          25mm          54mm       26.65mm  T        270.00 LED            
+LED17      XP-G3                    54mm          39mm          54mm          39mm          54mm       40.65mm  T        270.00 LED            
+LED18      XP-G3                    54mm          53mm          54mm          53mm          54mm       54.65mm  T        270.00 LED            
+LED19      XP-G3                    54mm          67mm          54mm          67mm          54mm       68.65mm  T        270.00 LED            
+LED20      XP-G3                    54mm          81mm          54mm          81mm          54mm       82.65mm  T        270.00 LED            
+LED21      XP-G3                    54mm          95mm          54mm          95mm          54mm       96.65mm  T        270.00 LED            
+LED22      XP-G3                 72.75mm          11mm       72.75mm          11mm       72.75mm       12.65mm  T        270.00 LED            
+LED23      XP-G3                 72.75mm          25mm       72.75mm          25mm       72.75mm       26.65mm  T        270.00 LED            
+LED24      XP-G3                 72.75mm          39mm       72.75mm          39mm       72.75mm       40.65mm  T        270.00 LED            
+LED25      XP-G3                 72.75mm          53mm       72.75mm          53mm       72.75mm       54.65mm  T        270.00 LED            
+LED26      XP-G3                 72.75mm          67mm       72.75mm          67mm       72.75mm       68.65mm  T        270.00 LED            
+LED27      XP-G3                 72.75mm          81mm       72.75mm          81mm       72.75mm       82.65mm  T        270.00 LED            
+LED28      XP-G3                 72.75mm          95mm       72.75mm          95mm       72.75mm       96.65mm  T        270.00 LED            
+LED29      XP-G3                    91mm          11mm          91mm          11mm          91mm       12.65mm  T        270.00 LED            
+LED30      XP-G3                    91mm          25mm          91mm          25mm          91mm       26.65mm  T        270.00 LED            
+LED31      XP-G3                    91mm          39mm          91mm          39mm          91mm       40.65mm  T        270.00 LED            
+LED32      XP-G3                    91mm          53mm          91mm          53mm          91mm       54.65mm  T        270.00 LED            
+LED33      XP-G3                    91mm          67mm          91mm          67mm          91mm       68.65mm  T        270.00 LED            
+LED34      XP-G3                    91mm          81mm          91mm          81mm          91mm       82.65mm  T        270.00 LED            
+LED35      XP-G3                    91mm          95mm          91mm          95mm          91mm       96.65mm  T        270.00 LED            
+LED36      XP-G3                 109.5mm          11mm       109.5mm          11mm       109.5mm       12.65mm  T        270.00 LED            
+LED37      XP-G3                 109.5mm          25mm       109.5mm          25mm       109.5mm       26.65mm  T        270.00 LED            
+LED38      XP-G3                 109.5mm          39mm       109.5mm          39mm       109.5mm       40.65mm  T        270.00 LED            
+LED39      XP-G3                 109.5mm          53mm       109.5mm          53mm       109.5mm       54.65mm  T        270.00 LED            
+LED40      XP-G3                 109.5mm          67mm       109.5mm          67mm       109.5mm       68.65mm  T        270.00 LED            
+LED41      XP-G3                 109.5mm          81mm       109.5mm          81mm       109.5mm       82.65mm  T        270.00 LED            
+LED42      XP-G3                 109.5mm          95mm       109.5mm          95mm       109.5mm       96.65mm  T        270.00 LED            
+LED43      XP-G3                   128mm          11mm         128mm          11mm         128mm       12.65mm  T        270.00 LED            
+LED44      XP-G3                   128mm          25mm         128mm          25mm         128mm       26.65mm  T        270.00 LED            
+LED45      XP-G3                   128mm          39mm         128mm          39mm         128mm       40.65mm  T        270.00 LED            
+LED46      XP-G3                   128mm          53mm         128mm          53mm         128mm       54.65mm  T        270.00 LED            
+LED47      XP-G3                   128mm          67mm         128mm          67mm         128mm       68.65mm  T        270.00 LED            
+LED48      XP-G3                   128mm          81mm         128mm          81mm         128mm       82.65mm  T        270.00 LED            
+LED49      XP-G3                   128mm          95mm         128mm          95mm         128mm       96.65mm  T        270.00 LED            
+LED50      XP-G3                 146.5mm          53mm       146.5mm          53mm       146.5mm       51.35mm  T         90.00 LED            
+LED51      XP-G3                 146.5mm          11mm       146.5mm          11mm       146.5mm       12.65mm  T        270.00 LED            
+LED52      XP-G3                 146.5mm          25mm       146.5mm          25mm       146.5mm       26.65mm  T        270.00 LED            
+LED53      XP-G3                 146.5mm          39mm       146.5mm          39mm       146.5mm       40.65mm  T        270.00 LED            
+LED54      XP-G3                 146.5mm          67mm       146.5mm          67mm       146.5mm       68.65mm  T        270.00 LED            
+LED55      XP-G3                 146.5mm          81mm       146.5mm          81mm       146.5mm       82.65mm  T        270.00 LED            
+LED56      XP-G3                 146.5mm          95mm       146.5mm          95mm       146.5mm       96.65mm  T        270.00 LED            
+LED57      XP-G3                   165mm          11mm         165mm          11mm         165mm       12.65mm  T        270.00 LED            
+LED58      XP-G3                   165mm          25mm         165mm          25mm         165mm       26.65mm  T        270.00 LED            
+LED59      XP-G3                   165mm          39mm         165mm          39mm         165mm       40.65mm  T        270.00 LED            
+LED60      XP-G3                   165mm          53mm         165mm          53mm         165mm       54.65mm  T        270.00 LED            
+LED61      XP-G3                   165mm          67mm         165mm          67mm         165mm       68.65mm  T        270.00 LED            
+LED62      XP-G3                   165mm          81mm         165mm          81mm         165mm       82.65mm  T        270.00 LED            
+LED63      XP-G3                   165mm          95mm         165mm          95mm         165mm       96.65mm  T        270.00 LED            
+LED64      XP-G3                 183.5mm          11mm       183.5mm          11mm       183.5mm       12.65mm  T        270.00 LED            
+LED65      XP-G3                 183.5mm          25mm       183.5mm          25mm       183.5mm       26.65mm  T        270.00 LED            
+LED66      XP-G3                 183.5mm          39mm       183.5mm          39mm       183.5mm       40.65mm  T        270.00 LED            
+LED67      XP-G3                 183.5mm          53mm       183.5mm          53mm       183.5mm       54.65mm  T        270.00 LED            
+LED68      XP-G3                 183.5mm          67mm       183.5mm          67mm       183.5mm       68.65mm  T        270.00 LED            
+LED69      XP-G3                 183.5mm          81mm       183.5mm          81mm       183.5mm       82.65mm  T        270.00 LED            
+LED70      XP-G3                 183.5mm          95mm       183.5mm          95mm       183.5mm       96.65mm  T        270.00 LED            
+LED71      XP-G3                   202mm          11mm         202mm          11mm         202mm       12.65mm  T        270.00 LED            
+LED72      XP-G3                   202mm          25mm         202mm          25mm         202mm       26.65mm  T        270.00 LED            
+LED73      XP-G3                   202mm          39mm         202mm          39mm         202mm       40.65mm  T        270.00 LED            
+LED74      XP-G3                   202mm          53mm         202mm          53mm         202mm       54.65mm  T        270.00 LED            
+LED75      XP-G3                   202mm          67mm         202mm          67mm         202mm       68.65mm  T        270.00 LED            
+LED76      XP-G3                   202mm          81mm         202mm          81mm         202mm       82.65mm  T        270.00 LED            
+LED77      XP-G3                   202mm          95mm         202mm          95mm         202mm       96.65mm  T        270.00 LED            
+LED78      XP-G3                 220.5mm          11mm       220.5mm          11mm       220.5mm       12.65mm  T        270.00 LED            
+LED79      XP-G3                 220.5mm          25mm       220.5mm          25mm       220.5mm       26.65mm  T        270.00 LED            
+LED80      XP-G3                 220.5mm          39mm       220.5mm          39mm       220.5mm       40.65mm  T        270.00 LED            
+LED81      XP-G3                 220.5mm          53mm       220.5mm          53mm       220.5mm       54.65mm  T        270.00 LED            
+LED82      XP-G3                 220.5mm          67mm       220.5mm          67mm       220.5mm       68.65mm  T        270.00 LED            
+LED83      XP-G3                 220.5mm          81mm       220.5mm          81mm       220.5mm       82.65mm  T        270.00 LED            
+LED84      XP-G3                 220.5mm          95mm       220.5mm          95mm       220.5mm       96.65mm  T        270.00 LED            
+R1         0805_-_resistor     22.3752mm     28.6227mm     22.3752mm     28.6227mm     22.3752mm     29.6227mm  B        270.00 Res            
+R2         0805_-_resistor     34.3751mm     25.2477mm     34.3751mm     25.2477mm     34.3751mm     26.2478mm  B        270.00 Res            
+R3         0805_-_resistor     33.7501mm     70.6249mm     33.7501mm     70.6249mm     33.7501mm     71.6249mm  B        270.00 Res            
+R4         0805_-_resistor     45.6251mm       67.25mm     45.6251mm       67.25mm     45.6251mm       68.25mm  B        270.00 Res            
+R5         0805_-_resistor     52.1251mm     28.6232mm     52.1251mm     28.6232mm     52.1251mm     29.6232mm  B        270.00 Res            
+R6         0805_-_resistor     64.2501mm     25.2483mm     64.2501mm     25.2483mm     64.2501mm     26.2483mm  B        270.00 Res            
+R7         0805_-_resistor     70.8751mm     70.6235mm     70.8751mm     70.6235mm     70.8751mm     71.6235mm  B        270.00 Res            
+R8         0805_-_resistor     83.0001mm     67.1235mm     83.0001mm     67.1235mm     83.0001mm     68.1235mm  B        270.00 Res            
+R9         0805_-_resistor     89.2501mm     28.6237mm     89.2501mm     28.6237mm     89.2501mm     29.6237mm  B        270.00 Res            
+R10        0805_-_resistor    101.2512mm     25.1251mm    101.2512mm     25.1251mm    101.2512mm     26.1251mm  B        270.00 Res            
+R11        0805_-_resistor    107.7502mm      70.624mm    107.7502mm      70.624mm    107.7502mm      71.624mm  B        270.00 Res            
+R12        0805_-_resistor     119.876mm     67.1252mm     119.876mm     67.1252mm     119.876mm     68.1252mm  B        270.00 Res            
+R13        0805_-_resistor    126.1257mm     28.6251mm    126.1258mm     28.6251mm    126.1257mm     29.6252mm  B        270.00 Res            
+R14        0805_-_resistor    138.2507mm     25.3752mm    138.2507mm     25.3752mm    138.2507mm     26.3752mm  B        270.00 Res            
+R15        0805_-_resistor    144.7518mm     70.6252mm    144.7518mm     70.6252mm    144.7518mm     71.6252mm  B        270.00 Res            
+R16        0805_-_resistor    156.7518mm     67.0002mm    156.7518mm     67.0002mm    156.7518mm     68.0002mm  B        270.00 Res            
+R17        0805_-_resistor    163.0016mm     28.6252mm    163.0016mm     28.6252mm    163.0016mm     29.6252mm  B        270.00 Res            
+R18        0805_-_resistor    175.3765mm     25.2502mm    175.3765mm     25.2502mm    175.3765mm     26.2502mm  B        270.00 Res            
+R19        0805_-_resistor    181.8763mm     70.6252mm    181.8763mm     70.6252mm    181.8763mm     71.6252mm  B        270.00 Res            
+R20        0805_-_resistor    193.7513mm     67.2502mm    193.7513mm     67.2502mm    193.7513mm     68.2502mm  B        270.00 Res            
+R21        0805_-_resistor     200.251mm     28.6252mm     200.251mm     28.6252mm     200.251mm     29.6252mm  B        270.00 Res            
+R22        0805_-_resistor     212.126mm     25.3752mm     212.126mm     25.3752mm     212.126mm     26.3752mm  B        270.00 Res            
+R23        0805_-_resistor    218.7508mm     70.6252mm    218.7508mm     70.6252mm    218.7508mm     71.6252mm  B        270.00 Res            
+R24        0805_-_resistor    230.5007mm     67.1252mm    230.5007mm     67.1252mm    230.5007mm     68.1252mm  B        270.00 Res            
+RT1        0805_-_resistor     31.7499mm     24.2522mm     31.7499mm     24.2522mm     30.7498mm     24.2522mm  B        360.00 Res            
+RT2        0805_-_resistor     42.9999mm       66.25mm     42.9999mm       66.25mm     41.9999mm       66.25mm  B        360.00 Res            
+RT3        0805_-_resistor     61.4999mm     24.2517mm     61.4999mm     24.2517mm     60.4999mm     24.2517mm  B        360.00 Res            
+RT4        0805_-_resistor     80.2498mm     66.1265mm     80.2498mm     66.1265mm     79.2498mm     66.1265mm  B        360.00 Res            
+RT5        0805_-_resistor     98.4999mm     24.1262mm     98.4999mm     24.1262mm     97.4999mm     24.1262mm  B        360.00 Res            
+RT6        0805_-_resistor    116.9999mm      66.126mm    116.9999mm      66.126mm    115.9999mm      66.126mm  B        360.00 Res            
+RT7        0805_-_resistor    135.4999mm     24.3757mm    135.4999mm     24.3757mm    134.4999mm     24.3757mm  B        360.00 Res            
+RT8        0805_-_resistor    153.8748mm     66.0018mm    153.8748mm     66.0018mm    152.8748mm     66.0018mm  B        360.00 Res            
+RT9        0805_-_resistor    172.4998mm     24.2515mm    172.4998mm     24.2515mm    171.4998mm     24.2515mm  B        360.00 Res            
+RT10       0805_-_resistor    190.9998mm     66.2512mm    190.9998mm     66.2512mm    189.9998mm     66.2512mm  B        360.00 Res            
+RT11       0805_-_resistor    209.4998mm      24.376mm    209.4998mm      24.376mm    208.4998mm      24.376mm  B        360.00 Res            
+RT12       0805_-_resistor    227.7498mm     66.1257mm    227.7498mm     66.1257mm    226.7498mm     66.1257mm  B        360.00 Res            
+U1         SOIC8-EP            29.7523mm     30.1251mm     29.7523mm     30.1251mm     27.0923mm     28.2201mm  B        360.00 MAX16832A      
+U2         SOIC8-EP            41.0001mm     72.1251mm     41.0001mm     72.1251mm     38.3401mm     70.2201mm  B        360.00 MAX16832A      
+U3         SOIC8-EP            59.5017mm     30.1251mm     59.5017mm     30.1251mm     56.8417mm     28.2201mm  B        360.00 MAX16832A      
+U4         SOIC8-EP            78.2515mm     72.1251mm     78.2515mm     72.1251mm     75.5915mm     70.2201mm  B        360.00 MAX16832A      
+U5         SOIC8-EP            96.5012mm     30.1251mm     96.5012mm     30.1251mm     93.8413mm     28.2201mm  B        360.00 MAX16832A      
+U6         SOIC8-EP            115.001mm     72.1251mm     115.001mm     72.1251mm     112.341mm     70.2201mm  B        360.00 MAX16832A      
+U7         SOIC8-EP           133.5007mm     30.1251mm    133.5007mm     30.1251mm    130.8407mm     28.2201mm  B        360.00 MAX16832A      
+U8         SOIC8-EP           152.0018mm     72.1252mm    152.0018mm     72.1252mm    149.3418mm     70.2202mm  B        360.00 MAX16832A      
+U9         SOIC8-EP           170.5015mm     30.1252mm    170.5015mm     30.1252mm    167.8415mm     28.2202mm  B        360.00 MAX16832A      
+U10        SOIC8-EP           189.0013mm     72.1252mm    189.0013mm     72.1252mm    186.3413mm     70.2202mm  B        360.00 MAX16832A      
+U11        SOIC8-EP            207.501mm     30.1252mm     207.501mm     30.1252mm     204.841mm     28.2202mm  B        360.00 MAX16832A      
+U12        SOIC8-EP           226.0008mm     72.1252mm    226.0008mm     72.1252mm    223.3408mm     70.2202mm  B        360.00 MAX16832A      
+U17        TSSOP-8            120.1151mm     53.1251mm    120.1151mm     53.1251mm    119.1401mm     55.3251mm  B        270.00 MAX31826       
+X1         MOLEX-52610-1233      6.7625mm          53mm         6.8mm          53mm         4.9mm        60.5mm  B        270.00 816 pin FPC connector
+L15        TYS6045             244.624mm     40.2499mm     244.624mm     40.2499mm     246.724mm     40.2499mm  B        180.00 68 uH          
+L16        TYS6045            258.8743mm     82.2499mm    258.8743mm     82.2499mm    260.9743mm     82.2499mm  B        180.00 68 uH          
+R29        0805_-_resistor    237.2511mm     28.7501mm    237.2511mm     28.7501mm    237.2511mm     29.7501mm  B        270.00 Res            
+R30        0805_-_resistor    249.3761mm     25.1251mm    249.3761mm     25.1251mm    249.3761mm     26.1251mm  B        270.00 Res            
+R31        0805_-_resistor    251.5008mm     70.6251mm    251.5008mm     70.6251mm    251.5008mm     71.6251mm  B        270.00 Res            
+R32        0805_-_resistor    263.5008mm     67.2501mm    263.5008mm     67.2501mm    263.5008mm     68.2501mm  B        270.00 Res            
+L17        0805_-_inductor     20.2471mm     27.1246mm     20.2471mm     27.1246mm     20.2471mm     28.1246mm  B        270.00 1 kOhms @ 100MHz
+L18        0805_-_inductor     31.4971mm     69.1246mm     31.4971mm     69.1246mm     31.4971mm     70.1246mm  B        270.00 1 kOhms @ 100MHz
+L19        0805_-_inductor     49.9971mm     27.1246mm     49.9971mm     27.1246mm     49.9971mm     28.1246mm  B        270.00 1 kOhms @ 100MHz
+L20        0805_-_inductor     68.7472mm     69.1246mm     68.7472mm     69.1246mm     68.7472mm     70.1246mm  B        270.00 1 kOhms @ 100MHz
+L21        0805_-_inductor     86.9972mm     27.1246mm     86.9972mm     27.1246mm     86.9972mm     28.1246mm  B        270.00 1 kOhms @ 100MHz
+L22        0805_-_inductor    105.4973mm     69.1246mm    105.4973mm     69.1246mm    105.4973mm     70.1246mm  B        270.00 1 kOhms @ 100MHz
+L23        0805_-_inductor    123.9973mm     27.1246mm    123.9973mm     27.1246mm    123.9973mm     28.1246mm  B        270.00 1 kOhms @ 100MHz
+L24        0805_-_inductor    142.4971mm     69.1245mm    142.4971mm     69.1245mm    142.4971mm     70.1245mm  B        270.00 1 kOhms @ 100MHz
+L25        0805_-_inductor    160.9972mm     27.1245mm    160.9972mm     27.1245mm    160.9972mm     28.1245mm  B        270.00 1 kOhms @ 100MHz
+L26        0805_-_inductor    179.4972mm     68.9995mm    179.4973mm     68.9995mm    179.4972mm     69.9995mm  B        270.00 1 kOhms @ 100MHz
+L27        0805_-_inductor    197.9973mm     27.1245mm    197.9973mm     27.1245mm    197.9973mm     28.1245mm  B        270.00 1 kOhms @ 100MHz
+L28        0805_-_inductor    216.4973mm     69.1245mm    216.4973mm     69.1245mm    216.4973mm     70.1245mm  B        270.00 1 kOhms @ 100MHz
+C37        C1206              234.9967mm     32.1246mm    234.9967mm     32.1246mm    234.9967mm     33.4746mm  B        270.00 Cap            
+C38        0805_-_capacitor    246.4996mm     26.1283mm    246.4996mm     26.1283mm    245.4996mm     26.1283mm  B        180.00 Cap            
+C39        C1206              238.6282mm     31.5004mm    238.6282mm     31.5004mm    239.9782mm     31.5004mm  B        180.00 Cap            
+L29        0805_-_inductor    235.3716mm     27.1246mm    235.3716mm     27.1246mm    235.3716mm     28.1246mm  B        270.00 1 kOhms @ 100MHz
+L30        0805_-_inductor    249.2473mm     69.1246mm    249.2473mm     69.1246mm    249.2473mm     70.1246mm  B        270.00 1 kOhms @ 100MHz
+LED85      xp-g3                   239mm     10.9996mm         239mm     10.9996mm         239mm     12.6496mm  T        270.00 LED            
+LED86      xp-g3                   239mm     24.9996mm         239mm     24.9996mm         239mm     26.6496mm  T        270.00 LED            
+LED87      xp-g3                   239mm     38.9996mm         239mm     38.9996mm         239mm     40.6496mm  T        270.00 LED            
+LED88      xp-g3                   239mm     52.9996mm         239mm     52.9996mm         239mm     54.6496mm  T        270.00 LED            
+LED89      xp-g3                   239mm     66.9996mm         239mm     66.9996mm         239mm     68.6496mm  T        270.00 LED            
+LED90      xp-g3                   239mm     80.9996mm         239mm     80.9996mm         239mm     82.6496mm  T        270.00 LED            
+LED91      xp-g3                   239mm     94.9996mm         239mm     94.9996mm         239mm     96.6496mm  T        270.00 LED            
+LED92      xp-g3                 257.5mm     11.0004mm       257.5mm     11.0004mm       257.5mm      9.3504mm  T         90.00 LED            
+LED93      xp-g3                 257.5mm     24.9996mm       257.5mm     24.9996mm       257.5mm     26.6496mm  T        270.00 LED            
+LED94      xp-g3                 257.5mm     38.9996mm       257.5mm     38.9996mm       257.5mm     40.6496mm  T        270.00 LED            
+LED95      xp-g3                 257.5mm     52.9996mm       257.5mm     52.9996mm       257.5mm     54.6496mm  T        270.00 LED            
+LED96      xp-g3                 257.5mm     66.9996mm       257.5mm     66.9996mm       257.5mm     68.6496mm  T        270.00 LED            
+LED97      xp-g3                 257.5mm     80.9996mm       257.5mm     80.9996mm       257.5mm     82.6496mm  T        270.00 LED            
+LED98      xp-g3                 257.5mm     95.0004mm       257.5mm     95.0004mm       257.5mm     93.3504mm  T         90.00 LED            
+D13        SMA_-_diode_-_AK    244.7496mm     34.7028mm    244.7496mm     34.7028mm    246.7496mm     34.7028mm  B        180.00 Schottky Barrier Diode AK
+D14        SMA_-_diode_-_AK    258.8746mm     76.7027mm    258.8746mm     76.7027mm    260.8746mm     76.7027mm  B        180.00 Schottky Barrier Diode AK
+RT13       0805_-_resistor    246.5005mm     24.1221mm    246.5005mm     24.1221mm    245.5005mm     24.1221mm  B        360.00 Res            
+RT14       0805_-_resistor    260.7505mm     66.2473mm    260.7505mm     66.2473mm    259.7505mm     66.2473mm  B        360.00 Res            
+U13        SOIC8-EP            244.497mm     30.1245mm     244.497mm     30.1245mm     241.837mm     28.2196mm  B        360.00 MAX16832A      
+U14        SOIC8-EP           258.7472mm     72.1246mm    258.7472mm     72.1246mm    256.0872mm     70.2196mm  B        360.00 MAX16832A      
+C40        C1206              249.2473mm     74.1246mm    249.2473mm     74.1246mm    249.2473mm     75.4746mm  B        270.00 Cap            
+C41        0805_-_capacitor    260.7527mm     68.2504mm    260.7527mm     68.2504mm    259.7527mm     68.2504mm  B        180.00 Cap            
+C42        C1206              252.8746mm     73.3777mm    252.8746mm     73.3777mm    254.2246mm     73.3777mm  B        180.00 Cap            
+C51        0805_-_capacitor     24.1223mm     33.4996mm     24.1223mm     33.4996mm     25.1223mm     33.4996mm  B        360.00 Cap            
+C52        0805_-_capacitor     35.5004mm     75.3721mm     35.5004mm     75.3721mm     36.5004mm     75.3721mm  B        360.00 Cap            
+C53        0805_-_capacitor     53.8754mm     33.4971mm     53.8754mm     33.4971mm     54.8754mm     33.4971mm  B        360.00 Cap            
+C54        0805_-_capacitor     72.6254mm     75.4972mm     72.6254mm     75.4972mm     73.6254mm     75.4972mm  B        360.00 Cap            
+C55        0805_-_capacitor     91.0004mm     33.3722mm     91.0004mm     33.3722mm     92.0004mm     33.3722mm  B        360.00 Cap            
+C56        0805_-_capacitor    109.5004mm     75.4973mm    109.5004mm     75.4973mm    110.5004mm     75.4973mm  B        360.00 Cap            
+C57        0805_-_capacitor    127.8754mm     33.4973mm    127.8754mm     33.4973mm    128.8754mm     33.4973mm  B        360.00 Cap            
+C58        0805_-_capacitor    146.5004mm      75.497mm    146.5004mm     75.4971mm    147.5004mm      75.497mm  B        360.00 Cap            
+C59        0805_-_capacitor    164.7504mm     33.4971mm    164.7504mm     33.4971mm    165.7504mm     33.4971mm  B        360.00 Cap            
+C60        0805_-_capacitor       183.5mm        75.5mm       183.5mm        75.5mm       184.5mm        75.5mm  B        360.00 Cap            
+C61        0805_-_capacitor    201.9972mm     33.4996mm    201.9972mm     33.4996mm    202.9972mm     33.4996mm  B        360.00 Cap            
+C62        0805_-_capacitor    220.5004mm     75.4972mm    220.5004mm     75.4972mm    221.5004mm     75.4972mm  B        360.00 Cap            
+C63        0805_-_capacitor    239.0004mm     33.4973mm    239.0004mm     33.4973mm    240.0004mm     33.4973mm  B        360.00 Cap            
+C64        0805_-_capacitor    253.2504mm     75.4973mm    253.2504mm     75.4973mm    254.2504mm     75.4973mm  B        360.00 Cap            
+
